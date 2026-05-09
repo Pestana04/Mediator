@@ -1,4 +1,4 @@
 package Mediator;
 
-public class Aventureiro {
+public class Aventureiro extends Pessoa {
 }
